@@ -1,0 +1,6 @@
+Pandas: pip install pandas OR py -3 -m pip install pandas
+Plotly: pip install plotly OR py -3 -m pip install plotly
+Seaborn: pip install seaborn OR py -3 -m pip install seaborn
+MatPlotlib: pip install matplotlib OR py -3 -m pip install matplotlib
+
+Enter these statements on CMD to download the libraries
